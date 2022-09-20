@@ -1,12 +1,12 @@
 ## 功能介绍 
     
-课程预约小程序适合各种培训机构，早教机构，特长培训班进行课程预约。机构和学员如果拥有课程预约型小程序，就可以让学员自由选择培训上课的时间。有利于机构和学员做好资源调配工作，从而减少学员到店后的等待时间，提升学员满意度。本小程序前后端完整代码包括机构动态，最新通知新闻，师资介绍，课程预约，教师预约 等功能，并提供强大的后台管理系统，可以进行预约设定，时段设定，人数统计，名单统计，名单Excel导出，签到管理等。采用腾讯提供的小程序云开发解决方案，无须服务器和域名
+约课小程序，大家可以在这一小程序上预约相关课程，根据老师的课程时间安排预约上课时间段，无需主动联系老师，只需动动手指就能方便快速地完成整个预约过程，且全部在微信环境内完成，无需安装额外的应用与进行多余的操作，对于现在时间就是金钱的用户们来说，这是非常具有吸引力的。所以现如今不管是健身房还是其他类型的培训机构，他们大部分都在使用这一小程序，希望能够为学员提供更优质的服务。
 
 - 课程预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 课程预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的课程预约数据：支持预约名单数据导出Excel，打印
  
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/113954466/191168466-00d7679d-3759-465a-bc81-d4259d966573.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -17,17 +17,12 @@
 
 
 
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信:
  
-![输入图片说明](demo/author-base.png)
-
 
 
 ## 演示
 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/113954466/191168475-13f90ae0-6c7d-476d-bfb0-e73867c8ce34.png)
 
  
  
@@ -40,28 +35,32 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
- ![输入图片说明](demo/2%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5.png)
-![输入图片说明](demo/3%E5%B8%88%E8%B5%84%E4%BB%8B%E7%BB%8D.png)
-![输入图片说明](demo/4%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/5%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/6%E8%AF%BE%E7%A8%8B%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/7%E8%80%81%E5%B8%88%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/7%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6%E6%88%90%E5%8A%9F.png)
+![image](https://user-images.githubusercontent.com/113954466/191168568-15253428-95d1-47c1-bf3a-0d7aebce130e.png)
+![image](https://user-images.githubusercontent.com/113954466/191168574-80162a53-b274-49ba-b2f3-1e1761dcedbe.png)
+![image](https://user-images.githubusercontent.com/113954466/191168580-737b1be8-2c38-43c2-802b-548dc45a6b7c.png)
+![image](https://user-images.githubusercontent.com/113954466/191168587-75b0f33e-e135-4178-8b00-397ea2350463.png)
+![image](https://user-images.githubusercontent.com/113954466/191168590-3c995796-928a-4af2-af7b-1248e7ad9dff.png)
+![image](https://user-images.githubusercontent.com/113954466/191168596-1b04949d-d8f0-463a-967d-e0b6c27aed6a.png)
+
+![image](https://user-images.githubusercontent.com/113954466/191168602-f8a17058-aa25-465a-8d7c-3d5ab36687ff.png)
+![image](https://user-images.githubusercontent.com/113954466/191168606-d93f6552-9906-4eca-afdf-78a034baa2b0.png)
+![image](https://user-images.githubusercontent.com/113954466/191168609-151efdd4-9542-40cc-90b6-1d601278191f.png)
+
+ 
 
 ## 后台管理系统截图
-![输入图片说明](demo/9%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/10%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%88%9B%E5%BB%BA.png)
+ ![image](https://user-images.githubusercontent.com/113954466/191168617-d0448668-7b0d-44d4-8eac-4ad9a9fae38e.png)
 
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E5%AF%BC%E5%87%BA%E9%A2%84%E7%BA%A6%E6%95%B0%E6%8D%AE.png)
- ![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95.png)
+![image](https://user-images.githubusercontent.com/113954466/191168620-8d727652-6198-45f5-8789-6e8a99e4c25b.png)
+![image](https://user-images.githubusercontent.com/113954466/191168630-2166448c-cf2e-4f38-ac3c-a63e9109f1e9.png)
+![image](https://user-images.githubusercontent.com/113954466/191168635-7cf94a09-787b-4bb7-b64d-a9c232f40849.png)
+![image](https://user-images.githubusercontent.com/113954466/191168641-0f017331-573a-4bfc-93c0-b2a075bae48e.png)
 
 
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%A8%A1%E5%9D%97.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0.png)
+![image](https://user-images.githubusercontent.com/113954466/191168649-23fe136a-8132-4cd0-bd8b-481c900f194e.png)
+![image](https://user-images.githubusercontent.com/113954466/191168666-df2a3881-a948-4f51-8b33-b78660fb48d9.png)
+![image](https://user-images.githubusercontent.com/113954466/191168669-ec5aa17f-ea04-430c-b47a-27608d13c42d.png)
+![image](https://user-images.githubusercontent.com/113954466/191168676-c1360fef-463d-43c7-a6af-a6cd5c5b93b6.png)
+![image](https://user-images.githubusercontent.com/113954466/191168682-043726c2-1297-43e1-9052-a5e50bd7beac.png)
+
 
